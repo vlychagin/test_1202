@@ -11,6 +11,9 @@ namespace HelloConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Привет, мир!");
+            int a = 1;
+            int b = 2;
+            Console.WriteLine($"a = {a}, b = {b}");
         }
     }
 }
