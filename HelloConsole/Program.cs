@@ -13,6 +13,8 @@ namespace HelloConsole
             Console.WriteLine("Привет, мир!");
             int a = 1;
             int b = 2;
+			
+			// изменение 12/02/2022
             Console.WriteLine($"a = {a}, b = {b}");
         }
     }
